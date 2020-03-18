@@ -4,3 +4,4 @@ http://blog.csdn.net/jiaoshenmo/article/details/50964280 centos7 mysql5.7安装
 http://blog.csdn.net/chengyuqiang/article/details/54285857 mysql远程连接错误排查
 http://www.linuxidc.com/Linux/2016-08/134531.htm 主从配置
 http://blog.csdn.net/edwzhang/article/details/17226975 配置错误修复
+https://blog.csdn.net/rankun1/article/details/78106665 共享文件夹问题2
